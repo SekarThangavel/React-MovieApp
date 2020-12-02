@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SekarThangavel/SekThang/movie-app/static/css/main.84f4acd4.chunk.css",
+    "main.js": "/SekarThangavel/SekThang/movie-app/static/js/main.dae8a88e.chunk.js",
+    "main.js.map": "/SekarThangavel/SekThang/movie-app/static/js/main.dae8a88e.chunk.js.map",
+    "runtime-main.js": "/SekarThangavel/SekThang/movie-app/static/js/runtime-main.baed6b91.js",
+    "runtime-main.js.map": "/SekarThangavel/SekThang/movie-app/static/js/runtime-main.baed6b91.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/SekarThangavel/SekThang/movie-app/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e5ed9678.chunk.js": "/SekarThangavel/SekThang/movie-app/static/js/2.e5ed9678.chunk.js",
+    "static/js/2.e5ed9678.chunk.js.map": "/SekarThangavel/SekThang/movie-app/static/js/2.e5ed9678.chunk.js.map",
+    "static/js/3.0c39b056.chunk.js": "/SekarThangavel/SekThang/movie-app/static/js/3.0c39b056.chunk.js",
+    "static/js/3.0c39b056.chunk.js.map": "/SekarThangavel/SekThang/movie-app/static/js/3.0c39b056.chunk.js.map",
+    "index.html": "/SekarThangavel/SekThang/movie-app/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/SekarThangavel/SekThang/movie-app/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.84f4acd4.chunk.css.map": "/SekarThangavel/SekThang/movie-app/static/css/main.84f4acd4.chunk.css.map",
+    "static/js/2.e5ed9678.chunk.js.LICENSE.txt": "/SekarThangavel/SekThang/movie-app/static/js/2.e5ed9678.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baed6b91.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e5ed9678.chunk.js",
+    "static/css/main.84f4acd4.chunk.css",
+    "static/js/main.dae8a88e.chunk.js"
+  ]
+}
